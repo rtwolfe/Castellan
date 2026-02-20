@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="castellan_hero.svg" alt="Castellan — Secure AI Agents" width="100%"/>
+# 🏰 CASTELLAN
+
+**The Reference Implementation of the IBM/Anthropic Enterprise Agent Blueprint**
+
+*The only platform built to satisfy what IBM and Anthropic say every production agent requires.*
 
 <br>
 
